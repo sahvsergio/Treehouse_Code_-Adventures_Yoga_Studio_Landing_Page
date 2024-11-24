@@ -9,7 +9,7 @@ Create a simple landing page for a yoga studio using HTML and CSS.
 #### Color Palette
 
 | Element              | Hex Color |
-|----------------------| :-------: |
+| -------------------- | :-------: |
 | Body Background      | `#2E3B41` |
 | Top Layer Wave       | `#EEB3A3` |
 | Bottom Layer Wave    | `#F88CAC` |
@@ -27,4 +27,4 @@ Create a simple landing page for a yoga studio using HTML and CSS.
 
 Extra Challenge:
 
-1. Generate your own wave patterns with CSS instead of using the included background images. You can use a tool like https://getwaves.io/ 
+1. Generate your own wave patterns with CSS instead of using the included background images. You can use a tool like https://getwaves.io/

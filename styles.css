@@ -12,14 +12,34 @@
 #### How to Succeed */
 html {
   background-color: #2e3b41;
-  display:flex;
-  flex-direction:row-reverse;
-  
+  display: flex;
+  flex-direction: row-reverse;
 }
+
 body {
   background-color: #ffffff;
-  max-width:50%;
 }
-#Navbar {
-  
+
+header {
+  width: 70%;
+}
+
+nav ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  text-decoration:none;
+}
+
+.join_button {
+  background-color: #f88cac;
+  color: #ffffff;
+  width:30%;
+}
+.view_schedule_button {
+  background-color: #e9f0fd;
+  width:30%;
+}
+.primary_text {
+  color: #506279;
 }
